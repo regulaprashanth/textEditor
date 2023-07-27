@@ -1,0 +1,20 @@
+.textArea {
+  background-color: #25262c;
+  color: #f8fafc;
+  border: 1px solid #cbd5e1;
+  outline: none;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  text-decoration: normal;
+  font-style: normal;
+  font-weight: normal;
+}
+.activeFontWeight {
+  font-weight: bold;
+}
+.activeTextDecoration {
+  text-decoration: underline;
+}
+.activeFontStyle {
+  font-style: italic;
+}
